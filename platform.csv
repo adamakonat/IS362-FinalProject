@@ -1,0 +1,41 @@
+PC,Platform,Company
+0,PC,PC
+1,Playstation 4,PS4
+2,Xbox One,XBOXONE
+3,Wii U,wii-u
+4,Nintendo Switch,Switch
+5,Playstation 3,PS3
+6,XBOX 360,XBOX360
+7,Wii,Wii
+8,Mac,Mac
+9,Linux,Linux
+10,HANDHELDS,NaN
+11,Nintendo 3DS,3DS
+12,PlayStation Vita,vita
+13,DS,DS
+14,Playstation Portable,PSP
+15,MOBILE,NaN
+16,iPhone,iPhone
+17,Windows Phone,wp
+18,Android,Android
+19,CLASSICS,NaN
+20,Playstation 2,PS2
+21,Xbox,Xbox
+22,Game Boy Advance,GBA
+23,Gamecube,GC
+24,Playstation,PSX
+25,Nintendo 64,N64
+26,Dreamcast,DC
+27,SEGA SATURN,SATURN
+28,Game Boy Color,GBC
+29,SEGA GENESIS,GENESIS
+30,Super Nintendo Entertainment System,SNES
+31,SEGA Mastersystem,SEGAMS
+32,Nintendo Entertainment System,NES
+33,SEGACD,SEGACD
+34,NGAGE,NGAGE
+35,Game Gear,GAMEGEAR
+36,Commodore 64,c64
+37,TurboGrafx-16,tg16
+38,MISC,NaN
+39,Arcade,arcade
